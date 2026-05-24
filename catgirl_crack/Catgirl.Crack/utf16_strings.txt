@@ -1,0 +1,69 @@
+q1 q(%y
+a.#j.+
+((((((((((((((((((((((((((((((((((((((((
+(((((((
+((((((
+(((((
+(((((
+(((((
+(((((
+((((((
+(((((
+((((
+(((((((
+((((((((((
+(((((
+(((((
+((((((((
+(((((
+((((((
+((((
+((((((
+((((((
+(((((
+((((((
+((((
+((((((
+(((((((
+((((((
+((((
+(((((((
+(((((
+(((((((
+((((
+(((((
+((((
+((((
+(((((((
+(((((((
+((((((((
+((((((((((((
+((((((((
+Enter the password below =^_^=: 
+Mint
+Mrrooww! Good Kitty! Mwwwaaah~!
+meow
+Meeeoww! That would've been my first guess too, but it's wrong teehee~
+Try again :(, you got this!
+VS_VERSION_INFO
+VarFileInfo
+Translation
+StringFileInfo
+000004b0
+CompanyName
+CatgirlCrack
+FileDescription
+CatgirlCrack
+FileVersion
+1.0.0.0
+InternalName
+CatgirlCrack.dll
+LegalCopyright
+OriginalFilename
+CatgirlCrack.dll
+ProductName
+CatgirlCrack
+ProductVersion
+1.0.0
+Assembly Version
+1.0.0.0

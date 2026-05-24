@@ -1,0 +1,89 @@
+!This program cannot be run in DOS mode.
+.text
+`.rsrc
+@.reloc
+BSJB
+v4.0.30319
+#Strings
+#GUID
+#Blob
+<Module>
+System.Console
+System.Runtime
+ReadLine
+WriteLine
+DebuggableAttribute
+AssemblyTitleAttribute
+TargetFrameworkAttribute
+AssemblyFileVersionAttribute
+AssemblyInformationalVersionAttribute
+AssemblyConfigurationAttribute
+RefSafetyRulesAttribute
+CompilationRelaxationsAttribute
+AssemblyProductAttribute
+AssemblyCompanyAttribute
+RuntimeCompatibilityAttribute
+System.Runtime.Versioning
+String
+CatgirlCrack
+CatgirlCrack.dll
+Program
+System
+Main
+System.Reflection
+StringComparison
+Clear
+.ctor
+System.Diagnostics
+System.Runtime.CompilerServices
+DebuggingModes
+Equals
+Object
+(6(6(
+(	(	(
+(w(}(
+(i(/(	(	(
+(6($(
+(@(	(
+(I(;(
+(X(<(
+(8(@(
+([(3(6(
+(G(](
+(?(?(?(7(
+(	(	(
+( (G(
+( (@($(I(I(
+(G(J($(
+(`(6($(6(
+(P( (	(
+(@(~(
+(o(Z(
+()(V(
+([(;(?(
+(~(}(
+(=(~(
+WrapNonExceptionThrows
+.NETCoreApp,Version=v10.0
+FrameworkDisplayName	.NET 10.0
+CatgirlCrack
+Debug
+1.0.0.0
+1.0.0
+RSDS
+/home/end/Documents/scripts/cs/crackme/catigrl/CatgirlCrack/obj/Debug/net10.0/CatgirlCrack.pdb
+SHA256
+=[1 #
+_CorExeMain
+mscoree.dll
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<assembly xmlns="urn:schemas-microsoft-com:asm.v1" manifestVersion="1.0">
+  <assemblyIdentity version="1.0.0.0" name="MyApplication.app"/>
+  <trustInfo xmlns="urn:schemas-microsoft-com:asm.v2">
+    <security>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <requestedExecutionLevel level="asInvoker" uiAccess="false"/>
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+</assembly>
