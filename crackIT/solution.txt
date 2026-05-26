@@ -1,0 +1,33 @@
+if we analyze the binary statically using [Ghidra] we can see that it constructs the flag dynamically in memory using [std::string::_M_append] instead of reversing the decryption function we can capture the flag dynamically using [ltrace]
+
+run the following command with a dummy flag: ltrace ./crackit hahahahahahahaha
+
+!: check file [ltrace_pro.txt]
+
+you see d flsg as pieces
+
+memcpy(0x5599ac21d330, "CTF{", 4)                = 0x5599ac21d330
+strlen("My_")                                    = 3
+memcpy(0x5599ac21d350, "My_", 3)                 = 0x5599ac21d350
+strlen("S3c")                                    = 3
+memcpy(0x5599ac21d370, "S3c", 3)                 = 0x5599ac21d370
+strlen("r3t_")                                   = 4
+memcpy(0x5599ac21d390, "r3t_", 4)                = 0x5599ac21d390
+strlen("Fl4g")                                   = 4
+memcpy(0x5599ac21d3b0, "Fl4g", 4)                = 0x5599ac21d3b0
+strlen("}W0W")                                   = 4
+memcpy(0x5599ac21d3d0, "}W0W", 4)                = 0x5599ac21d3d0
+strlen("Y0u")                                    = 3
+memcpy(0x5599ac21d3f0, "Y0u", 3)                 = 0x5599ac21d3f0
+strlen("F0und")                                  = 5
+memcpy(0x5599ac21d410, "F0und", 5)               = 0x5599ac21d410
+strlen("M3")                                     = 2
+memcpy(0x5599ac21d430, "M3", 2)                  = 0x5599ac21d430
+strlen("{0r ")                                   = 4
+memcpy(0x5599ac21d450, "{0r ", 4)                = 0x5599ac21d450
+strlen("N0t}")                                   = 4
+memcpy(0x5599ac21d470, "N0t}", 4)
+
+final flage are : ./crackit "CTF{My_S3cr3t_Fl4g}W0WY0uF0undM3{0r N0t}"
+
+ENJOY:)
